@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int mian()
+{
+cout<<"this is my first programer"<<endl;
+return 0;
+
+
+}
